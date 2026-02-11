@@ -29,3 +29,5 @@ This folder contains examples of test case management using TestRail principles.
 - End of the Test Run
 
 ![](end-of-test-run.png)
+
+# Results in PDF format, you can find [here](https://github.com/Serhii-Berezovskyi/QA-Study/tree/main/Test-Documentation/Test-Cases).
