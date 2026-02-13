@@ -13,7 +13,7 @@ The goal of this repository is to demonstrate my understanding of software testi
 
 🗄️ [SQL](https://github.com/Serhii-Berezovskyi/QA-Study/tree/main/SQL) – Basic queries and database practice
 
-🔍 [API Testing](https://github.com/Serhii-Berezovskyi/QA-Study/tree/main/API) – Postman collections and API test examples
+🔍 [API](https://github.com/Serhii-Berezovskyi/QA-Study/tree/main/API) – Postman collections and API test examples
 
 🎓 [Certificates](https://github.com/Serhii-Berezovskyi/QA-Study/tree/main/Certificates) – Completed courses and training certificates
 
