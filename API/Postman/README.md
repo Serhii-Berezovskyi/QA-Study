@@ -2,6 +2,7 @@
 
 This folder contains API testing examples created using Postman.
 
+API testing - [here](https://github.com/Serhii-Berezovskyi/QA-Study/tree/main/API/Postman/API%20testing)
 
 ## Postman practice ( public API https://petstore.swagger.io/)
 
